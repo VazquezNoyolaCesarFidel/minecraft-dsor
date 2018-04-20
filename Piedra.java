@@ -1,6 +1,6 @@
 public class Piedra extends Material{
   public Piedra(){
-    dureza =  5;
+    dureza =  4;
     nombre = "Piedra";
   }
 }
